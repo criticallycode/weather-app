@@ -1,0 +1,16 @@
+{
+  "name": "hosting2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "homepage": "https://critcallycode.github.io/quiz-app",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
